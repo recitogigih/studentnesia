@@ -1,9 +1,10 @@
 <template>
-      <nav class="navbar" role="navigation" aria-label="main navigation">
+      <nav class="navbar " role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
-      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
-    </a>
+    <b class="navbar-item has-text-info" href="https://bulma.io">
+      <!-- <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28"> -->
+      STUDENTNESIA
+    </b>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
       <span aria-hidden="true"></span>
@@ -19,7 +20,19 @@
       </a>
 
       <a class="navbar-item">
-        Documentation
+        Mentoring Program
+      </a>
+
+       <a class="navbar-item">
+        Administrative Service
+      </a>
+
+      <a class="navbar-item">
+        Scholarship
+      </a>
+
+      <a class="navbar-item">
+        Merchandise
       </a>
 
       <div class="navbar-item has-dropdown is-hoverable">
